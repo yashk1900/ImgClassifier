@@ -19,7 +19,7 @@ h5py==3.9.0
 idna==3.4
 imageio==2.31.3
 itsdangerous==2.1.2
-jax==0.4.14
+jax==0.4.13
 Jinja2==3.1.2
 keras==2.13.1
 kiwisolver==1.4.5
@@ -52,7 +52,7 @@ tensorboard==2.13.0
 tensorboard-data-server==0.7.1
 tensorflow==2.13.0
 tensorflow-estimator==2.13.0
-# tensorflow-macos==2.13.0
+tensorflow-macos==2.13.0
 termcolor==2.3.0
 tifffile==2023.7.10
 typing_extensions==4.5.0
