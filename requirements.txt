@@ -1,4 +1,5 @@
-https://files.pythonhosted.org/packages/75/74/7eec4db7eea3796fe6f47bc358c24447fc66a080ac2fd35cbe4a3cd8d17b/numpy-1.25.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+
+https://files.pythonhosted.org/packages/f6/ae/546c18cad7525242d87def9ee1cba2e407028044f79c023ea8b2a11397d2/numpy-1.25.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whlabsl-py==0.12.0
 absl-py==0.12.0
 astunparse==1.6.3
 cachetools==4.2.2
