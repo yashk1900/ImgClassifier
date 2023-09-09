@@ -8,8 +8,7 @@ app = Flask(__name__)
 from skimage.transform import resize
 import matplotlib.pyplot as plt
 import tensorflow as tf
-import keras
-from keras.models import load_model
+from tensorflow.compat.v1.keras.models import load_model
 from tensorflow.compat.v1.keras.backend import set_session
 import numpy as np
 
