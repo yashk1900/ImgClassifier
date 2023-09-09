@@ -1,6 +1,3 @@
-
-https://files.pythonhosted.org/packages/f6/ae/546c18cad7525242d87def9ee1cba2e407028044f79c023ea8b2a11397d2/numpy-1.25.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-absl-py==0.12.0
 astunparse==1.6.3
 cachetools==4.2.2
 certifi==2020.12.5
@@ -29,7 +26,7 @@ Markdown==3.3.4
 MarkupSafe==1.1.1
 matplotlib==3.4.1
 networkx==2.5.1
-numpy==1.25.0
+numpy==1.19.5
 oauthlib==3.1.0
 opt-einsum==3.3.0
 Pillow==8.2.0
@@ -37,7 +34,7 @@ protobuf==3.15.8
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyparsing==2.4.7
-python-dateutil==3.9
+python-dateutil==2.8.1
 PyWavelets==1.1.1
 PyYAML==5.4.1
 requests==2.25.1
@@ -49,9 +46,8 @@ six==1.15.0
 tensorboard==2.5.0
 tensorboard-data-server==0.6.0
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.5.0rc2
-tensorflow-cpu==2.5.0rc2
-tensorflow-estimator==2.5.0rc0
+tensorflow-cpu==2.5.0
+tensorflow-estimator==2.5.0
 termcolor==1.1.0
 tifffile==2021.4.8
 typing-extensions==3.7.4.3
