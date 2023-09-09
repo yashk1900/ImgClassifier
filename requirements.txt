@@ -1,3 +1,4 @@
+https://files.pythonhosted.org/packages/f7/50/02c0fb5d913901ad643934713a31567df9b5065c28efc9672b707f80dfb1/numpy-1.19.5-cp39-cp39-manylinux2010_x86_64.whl
 absl-py==0.12.0
 astunparse==1.6.3
 cachetools==4.2.2
