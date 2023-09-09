@@ -1,4 +1,4 @@
-https://files.pythonhosted.org/packages/f7/50/02c0fb5d913901ad643934713a31567df9b5065c28efc9672b707f80dfb1/numpy-1.19.5-cp39-cp39-manylinux2010_x86_64.whl
+https://files.pythonhosted.org/packages/75/74/7eec4db7eea3796fe6f47bc358c24447fc66a080ac2fd35cbe4a3cd8d17b/numpy-1.25.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 absl-py==0.12.0
 astunparse==1.6.3
 cachetools==4.2.2
@@ -28,7 +28,7 @@ Markdown==3.3.4
 MarkupSafe==1.1.1
 matplotlib==3.4.1
 networkx==2.5.1
-numpy==1.19.5
+numpy==1.25.0
 oauthlib==3.1.0
 opt-einsum==3.3.0
 Pillow==8.2.0
